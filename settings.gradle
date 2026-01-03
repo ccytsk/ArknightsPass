@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "明日方舟通行证"
